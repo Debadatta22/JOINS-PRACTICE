@@ -17,10 +17,13 @@ Using the INSERT INTO command, we populate tables with sample student data and s
 🔗 Joins Used
 ✅ INNER JOIN
 Returns records that have matching values in both tables.
+
 ✅ LEFT JOIN
 Returns all records from the left table (STUDENT), and matched records from the right table (ACADEMICS). Unmatched records show NULLs.
+
 ✅ RIGHT JOIN
 Returns all records from the right table (ACADEMICS), and matched records from the left table (STUDENT).
+
 ✅ FULL OUTER JOIN
 Returns all records from both tables, with NULLs where there is no match.
 
