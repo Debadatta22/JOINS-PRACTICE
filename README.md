@@ -19,6 +19,7 @@ Task Description
 
 As part of my 4-week internship at Codtech IT Solutions under the mentorship of Neela Santhosh, I was assigned a hands-on project in the domain of SQL. The main objective was to understand and implement various types of SQL JOIN operations to combine and analyze relational data. My task was to create two tables: STUDENT, containing student details, and ACADEMICS, containing their academic records. I inserted data into both tables using INSERT statements and applied SQL JOINs to fetch meaningful results.
 
+
 Concepts Used
 
 1. SQL (Structured Query Language)
@@ -49,6 +50,8 @@ This project enhanced my practical SQL skills by teaching me how to design relat
 https://github.com/Debadatta22/JOINS-PRACTICE/issues/1#issue-3082120344
 
 https://github.com/Debadatta22/JOINS-PRACTICE/issues/1#issuecomment-2899999309
+
+https://github.com/Debadatta22/JOINS-PRACTICE/issues/1
 
 
 
